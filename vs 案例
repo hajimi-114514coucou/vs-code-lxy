@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>04</title>
+    <style>
+.banner{
+  
+   height: 500px;
+   background: color #f3f3f4;;
+   text-align: right;
+   background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../叮咚鸡文件概要/Konachan——未来朋克.jpg) ;
+   background-repeat: (no-repeat);
+  
+
+}
+.banner h2{
+color: #333;
+font-size: 36px;
+font-weight: 400;
+line-height: 100px;
+}
+.banner p{
+    font-size: 20px;
+
+}
+.banner a{
+    width: 125px;
+    height: 40px;
+    background-color: #f06b1f;
+    display: inline-block;
+    text-align: center;
+    line-height: 40px;
+    color: #fff
+    ;
+    text-decoration: none;
+    font-size: 20px;
+
+}
+    </style>
+</head>
+<body>
+    <div class="banner">
+<h2>让创造产生价值</h2>
+<p >我们希望小游戏平台可以提供无限可能,让每一个创作者都可以将他们的天赋和想象力展现</p>
+<a href="https://baike.baidu.com/item/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD/106554" target="_blank
+">我要报名</a>
+ </div>
+
+
+
+</body>
+</html>
